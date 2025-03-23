@@ -7,8 +7,8 @@ import (
 	"io"
 	"log"
 
-	"github.com/infinitez-one/izlfs-s3/api"
-	"github.com/infinitez-one/izlfs-s3/s3adapter"
+	"github.com/rodneyswa/izlfs-s3/api"
+	"github.com/rodneyswa/izlfs-s3/s3adapter"
 	"github.com/pkg/errors"
 )
 

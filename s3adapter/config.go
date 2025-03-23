@@ -4,7 +4,7 @@ import (
 	"context"
 
 	"github.com/aws/aws-sdk-go-v2/aws"
-	"github.com/infinitez-one/izlfs-s3/compression"
+	"github.com/rodneyswa/izlfs-s3/compression"
 )
 
 type Config struct {
